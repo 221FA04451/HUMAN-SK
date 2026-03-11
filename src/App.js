@@ -1,3 +1,4 @@
+// HUMAN-SK: 3D Human Body Model - Vercel Deployment Trigger
 import React, { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, PerspectiveCamera } from '@react-three/drei';
